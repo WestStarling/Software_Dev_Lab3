@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#bash file that prints out the first two words on the command line
+
+echo $1
+echo $2
+
+exit 42
