@@ -1,7 +1,8 @@
 #!/bin/bash
 
-#shell script that prints out the first word in the command line
+#shell script that prints out the first word and third in the command line
 
 echo $1
+echo $3
 
 exit 42
